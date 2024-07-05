@@ -1,0 +1,7 @@
+RowNumber,DataRetrievalType,Isbn,Title,Subtitle,AuthorNames,NumberOfPages,PublishDate
+1,Server,0201558025,Concrete mathematics,a foundation for computer science,Ronald L. Graham,657,1994
+2,Cache,0201558025,Concrete mathematics,a foundation for computer science,Ronald L. Graham,657,1994
+2,Server,0984782869,Cracking the Coding Interview,189 Programming Questions and Solutions,Gayle Laakmann McDowell,N/A,"Nov 21, 2015"
+3,Cache,0984782869,Cracking the Coding Interview,189 Programming Questions and Solutions,Gayle Laakmann McDowell,N/A,"Nov 21, 2015"
+3,Server,048641714X,Relativity,The Special and General Theory,Albert Einstein,168,2001
+3,Server,0565095021,On the Origin of Species,N/A,Charles Darwin;David Williams,520,2019
